@@ -1,7 +1,7 @@
 package com.qa.pages;
 
 public class HomePage {
-public void homePage() {
+public void homepage() {
 	System.out.println("home page");
 }
 }
